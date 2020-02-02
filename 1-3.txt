@@ -1,0 +1,22 @@
+確認問題
+問１
+３
+問２
+２
+問３
+４と６
+問４
+
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <title></title>
+<head>
+<body>
+<div>
+ <div></div>
+ <div></div>
+</div>
+<body>
+</html>
